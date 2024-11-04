@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnGithubActionsNetCore", "LearnGithubActionsNetCore.csproj", "{0A484970-740D-41E1-98F4-FB2252AF12CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebApp", "NetCoreWebApp.csproj", "{EF61F528-A1AF-4CE7-889E-F98BCC22564F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0A484970-740D-41E1-98F4-FB2252AF12CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A484970-740D-41E1-98F4-FB2252AF12CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A484970-740D-41E1-98F4-FB2252AF12CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A484970-740D-41E1-98F4-FB2252AF12CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF61F528-A1AF-4CE7-889E-F98BCC22564F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF61F528-A1AF-4CE7-889E-F98BCC22564F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF61F528-A1AF-4CE7-889E-F98BCC22564F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF61F528-A1AF-4CE7-889E-F98BCC22564F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F697C80C-8DC4-4AD8-A21C-288AA3F9154F}
+		SolutionGuid = {E59D3DA0-43C9-482A-8C8F-82D867989D19}
 	EndGlobalSection
 EndGlobal
